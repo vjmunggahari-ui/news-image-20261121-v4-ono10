@@ -1,0 +1,523 @@
+{
+ "date": "Saturday 21 November 2026",
+ "date_check": "Left out on purpose, first reported before Saturday: Houthi missiles over Riyadh (Fri 23:43 UTC); the Kryvyi Rih double strike; Zelenskyy's Crimea-bridge warning; Denmark's expulsion of a Russian attache; the ICJ's Myanmar genocide ruling (Thu 19 Nov). Not yet: COP31's final vote (Sun 09:00); the Las Vegas Grand Prix (Sun); BepiColombo's Mercury orbit (2027).",
+ "deck": "Missiles over the Gulf, a quake under the Andes, and a climate summit past midnight.",
+ "footer": "Every story happened, or was first reported, on Saturday 21 November 2026. Sources: Reuters, AP, AFP, Al Jazeera, Anadolu, CNA, BBC, USGS, GFZ, UKMTO, ESA, CoinGecko, F1. Original drawings.",
+ "half_life_legend": "HOW LONG IT LASTS - FLASH: gone by Monday  ·  DEVELOPING: settles in weeks  ·  STRUCTURAL: shifts the board for a year or more",
+ "masthead": "Saturday 21 November 2026",
+ "regions": [
+  {
+   "color": "#b3202c",
+   "count": 5,
+   "name": "Middle East"
+  },
+  {
+   "color": "#1f3a5f",
+   "count": 12,
+   "name": "Europe"
+  },
+  {
+   "color": "#0f766e",
+   "count": 9,
+   "name": "Asia"
+  },
+  {
+   "color": "#8a6d1b",
+   "count": 5,
+   "name": "Africa"
+  },
+  {
+   "color": "#6d28d9",
+   "count": 9,
+   "name": "N. America"
+  },
+  {
+   "color": "#be5a0e",
+   "count": 4,
+   "name": "S. America"
+  },
+  {
+   "color": "#0e7490",
+   "count": 3,
+   "name": "Oceania"
+  },
+  {
+   "color": "#4b5563",
+   "count": 1,
+   "name": "Global"
+  },
+  {
+   "color": "#334155",
+   "count": 1,
+   "name": "Space"
+  }
+ ],
+ "stats": [
+  {
+   "big": "6.7",
+   "label": "Peru quake magnitude (USGS)"
+  },
+  {
+   "big": "2 + 2",
+   "label": "US bases hit; tankers struck off Oman"
+  },
+  {
+   "big": "90.4%",
+   "label": "tariff lines duty-free in EU-Indonesia pact"
+  },
+  {
+   "big": "$55,130",
+   "label": "Bitcoin's two-year low, then +9%"
+  },
+  {
+   "big": "128",
+   "label": "nations back killer-robot talks"
+  },
+  {
+   "big": "37-12",
+   "label": "England over the All Blacks"
+  }
+ ],
+ "stories": [
+  {
+   "deck": "IRGC says it hit US positions at al-Riffa and Awali, destroying two Patriot radars. Bahrain says a civilian plant burned; two tankers hit off Khasab.",
+   "half_life": "STRUCTURAL",
+   "headline": "Iran hits US bases in Bahrain; two tankers struck off Oman",
+   "kicker": "GULF: IRAN STRIKES",
+   "lat": 26.0,
+   "lon": 50.5,
+   "n": 1,
+   "next": "Bahrain's UN case; 14 tankers wait to test the blockade.",
+   "place": "BAHRAIN · HORMUZ",
+   "region": "Middle East",
+   "scene": "gulf",
+   "source": "IRNA · Al Jazeera · Reuters · UKMTO",
+   "tier": "hero"
+  },
+  {
+   "deck": "00:09 UTC near Junin, 108 km deep; felt in Lima, no tsunami threat. A second M6.8 in the Banda Sea shook Darwin hours later.",
+   "half_life": "FLASH",
+   "headline": "Deep 6.7 quake shakes central Peru",
+   "kicker": "PERU: QUAKE 6.7",
+   "lat": -11.2,
+   "lon": -75.9,
+   "n": 2,
+   "next": "INDECI surveys damage; aftershock watch runs 48 hours.",
+   "place": "JUNIN, PERU",
+   "region": "S. America",
+   "scene": "quake",
+   "source": "USGS · IGP · AP · Anadolu",
+   "tier": "hero"
+  },
+  {
+   "deck": "Day 13 of a 12-day summit. A draft with no mention of fossil fuels split near 200 nations; approval moved to Sunday 06:00 GMT.",
+   "half_life": "STRUCTURAL",
+   "headline": "COP31 runs into overtime with no deal",
+   "kicker": "COP31: OVERTIME",
+   "lat": 36.9,
+   "lon": 30.7,
+   "n": 3,
+   "next": "Final vote due Sunday 09:00 in Antalya.",
+   "place": "ANTALYA, TURKIYE",
+   "region": "Europe",
+   "scene": "cop31",
+   "source": "Reuters · AFP · Anadolu",
+   "tier": "hero"
+  },
+  {
+   "deck": "Meza Flores taken in Guasave; 11 die in clashes.",
+   "half_life": "STRUCTURAL",
+   "headline": "Mexico seizes FBI-listed cartel boss",
+   "lat": 25.6,
+   "lon": -108.5,
+   "n": 4,
+   "place": "SINALOA, MEXICO",
+   "region": "N. America",
+   "scene": "wanted",
+   "source": "Reuters · AP · DEFENSA",
+   "tier": "mid"
+  },
+  {
+   "deck": "09:42 UTC off Dili; felt in Darwin. No tsunami threat.",
+   "half_life": "FLASH",
+   "headline": "M6.8 quake rattles Darwin",
+   "lat": -8.0,
+   "lon": 128.0,
+   "n": 5,
+   "place": "BANDA SEA",
+   "region": "Asia",
+   "scene": "waves",
+   "source": "USGS · GFZ · ABC",
+   "tier": "mid"
+  },
+  {
+   "deck": "90.4% of lines duty-free from day one; in force 2027.",
+   "half_life": "STRUCTURAL",
+   "headline": "EU and Indonesia sign trade pact",
+   "lat": 50.8,
+   "lon": 4.4,
+   "n": 6,
+   "place": "BRUSSELS",
+   "region": "Asia",
+   "scene": "flags",
+   "source": "ANTARA · European Commission",
+   "tier": "mid"
+  },
+  {
+   "deck": "$55,130 two-year low, then +9% back over $60,000.",
+   "half_life": "DEVELOPING",
+   "headline": "Bitcoin's wild Saturday",
+   "lat": null,
+   "lon": null,
+   "n": 7,
+   "place": "CRYPTO",
+   "region": "Global",
+   "scene": "bitcoin",
+   "source": "CoinDesk · Reuters",
+   "tier": "mid"
+  },
+  {
+   "deck": "37-minute burn from 18:24 UTC sets course for orbit.",
+   "half_life": "DEVELOPING",
+   "headline": "BepiColombo fires its burn to Mercury",
+   "lat": null,
+   "lon": null,
+   "n": 8,
+   "place": "MERCURY",
+   "region": "Space",
+   "scene": "mercury",
+   "source": "ESA",
+   "tier": "mid"
+  },
+  {
+   "deck": "Sparta II burns; 16 crew safe; Helsinki suspects Ukraine.",
+   "half_life": "DEVELOPING",
+   "headline": "Drones hit Russian ship off Finland",
+   "lat": 59.8,
+   "lon": 24.5,
+   "n": 9,
+   "place": "GULF OF FINLAND",
+   "region": "Europe",
+   "scene": "ship",
+   "source": "Finnish MoD · Reuters",
+   "tier": "mid"
+  },
+  {
+   "deck": "800 MW Hartha plant shuts; 35 hurt.",
+   "half_life": "FLASH",
+   "headline": "Fire kills 4 at Basra power station",
+   "lat": 30.5,
+   "lon": 47.8,
+   "n": 10,
+   "place": "BASRA, IRAQ",
+   "region": "Middle East",
+   "scene": "fire",
+   "source": "INA · Anadolu",
+   "tier": "mid"
+  },
+  {
+   "deck": "Taipei says 15 crossed the median line.",
+   "half_life": "DEVELOPING",
+   "headline": "21 Chinese jets hold a patrol",
+   "lat": 23.7,
+   "lon": 121.0,
+   "n": 11,
+   "place": "TAIWAN",
+   "region": "Asia",
+   "scene": "jets",
+   "source": "Taipei · Reuters",
+   "tier": "mid"
+  },
+  {
+   "deck": "Estonia scrambles NATO jets; campaign widens.",
+   "half_life": "DEVELOPING",
+   "headline": "Ukrainian drones hit Ust-Luga port",
+   "lat": 59.7,
+   "lon": 28.3,
+   "n": 12,
+   "place": "UST-LUGA, RUSSIA",
+   "region": "Europe",
+   "scene": "port",
+   "source": "Kyiv Post · ERR",
+   "tier": "mid"
+  },
+  {
+   "deck": "New Zealand's heaviest loss to England.",
+   "half_life": "FLASH",
+   "headline": "England rout the All Blacks 37-12",
+   "lat": 51.5,
+   "lon": -0.1,
+   "n": 13,
+   "place": "LONDON · RUGBY",
+   "region": "Europe",
+   "scene": "rugby",
+   "source": "RNZ · BBC",
+   "tier": "mid"
+  },
+  {
+   "deck": "Rahul 136, Gill 98; India lead by 118.",
+   "half_life": "FLASH",
+   "headline": "India pile on 486-4 vs NZ",
+   "lat": -41.3,
+   "lon": 174.8,
+   "n": 14,
+   "place": "WELLINGTON · CRICKET",
+   "region": "Asia",
+   "scene": "cricket",
+   "source": "Reuters · ICC",
+   "tier": "mid"
+  },
+  {
+   "deck": "Ex-president, 71, treated for bowel obstruction.",
+   "half_life": "DEVELOPING",
+   "headline": "Bolsonaro moved to intensive care",
+   "lat": -15.8,
+   "lon": -47.9,
+   "n": 15,
+   "place": "BRAZIL",
+   "region": "S. America",
+   "scene": "hospital",
+   "source": "Reuters",
+   "tier": "mid"
+  },
+  {
+   "deck": "Two more years of talks; no binding treaty yet.",
+   "half_life": "STRUCTURAL",
+   "headline": "128 nations back killer-robot talks",
+   "lat": 46.2,
+   "lon": 6.1,
+   "n": 16,
+   "place": "GENEVA · UN",
+   "region": "Europe",
+   "scene": "robot",
+   "source": "AFP · Reuters",
+   "tier": "mid"
+  },
+  {
+   "n": 17,
+   "region": "Middle East",
+   "text": "Gaza: civil defence says Israeli fire kills four (Al Jazeera)",
+   "tier": "list"
+  },
+  {
+   "n": 18,
+   "region": "Middle East",
+   "text": "Lebanon: Aoun says the state alone will hold arms (Anadolu)",
+   "tier": "list"
+  },
+  {
+   "n": 19,
+   "region": "Middle East",
+   "text": "Israel: Eisenkot invites Likud to coalition talks (ToI)",
+   "tier": "list"
+  },
+  {
+   "n": 20,
+   "region": "Europe",
+   "text": "NATO: Rutte vows to defend “every inch” of Poland (AFP)",
+   "tier": "list"
+  },
+  {
+   "n": 21,
+   "region": "Europe",
+   "text": "EU: Costa proposes a €1.582tn budget for 2028-34 (AFP)",
+   "tier": "list"
+  },
+  {
+   "n": 22,
+   "region": "Europe",
+   "text": "France: police count 82,500 at cost-of-living marches (ministry)",
+   "tier": "list"
+  },
+  {
+   "n": 23,
+   "region": "Europe",
+   "text": "Dublin: Ireland beat South Africa 20-17 (RTE)",
+   "tier": "list"
+  },
+  {
+   "n": 24,
+   "region": "Europe",
+   "text": "London: Leeds win 4-1 at Chelsea (BBC)",
+   "tier": "list"
+  },
+  {
+   "n": 25,
+   "region": "S. America",
+   "text": "Brazil: Flamengo clinch a second straight title (AP)",
+   "tier": "list"
+  },
+  {
+   "n": 26,
+   "region": "S. America",
+   "text": "Brazil: lab mosquitoes cut dengue 69% in a trial (Fiocruz)",
+   "tier": "list"
+  },
+  {
+   "n": 27,
+   "region": "Oceania",
+   "text": "Australia: beat England by 3 wickets in a T20 (ABC)",
+   "tier": "list"
+  },
+  {
+   "n": 28,
+   "region": "Asia",
+   "text": "Japan: snow cuts off 1,400 in a Fukushima village (Kyodo)",
+   "tier": "list"
+  },
+  {
+   "n": 29,
+   "region": "Asia",
+   "text": "Thailand: emergency plan on arsenic in two rivers (The Nation)",
+   "tier": "list"
+  },
+  {
+   "n": 30,
+   "region": "Africa",
+   "text": "Nigeria: bandits kill 6 in a Niger State village (AP)",
+   "tier": "list"
+  },
+  {
+   "n": 31,
+   "region": "Africa",
+   "text": "Abuja: all 54 CAF members back Infantino for FIFA again (CAF)",
+   "tier": "list"
+  },
+  {
+   "n": 32,
+   "region": "Africa",
+   "text": "Uganda: army chief says a $3bn rail deal is off (Reuters)",
+   "tier": "list"
+  },
+  {
+   "n": 33,
+   "region": "N. America",
+   "text": "US: Trump backs a 10% credit-card rate cap (AP)",
+   "tier": "list"
+  },
+  {
+   "n": 34,
+   "region": "N. America",
+   "text": "US: Trump confirms a hack of the FBI crime database (BBC)",
+   "tier": "list"
+  },
+  {
+   "n": 35,
+   "region": "N. America",
+   "text": "Florida: St Johns River tops its 1953 record (AP)",
+   "tier": "list"
+  },
+  {
+   "n": 36,
+   "region": "N. America",
+   "text": "Texas: execution of a man of 70 takes 63 minutes (AP)",
+   "tier": "list"
+  },
+  {
+   "n": 37,
+   "region": "N. America",
+   "text": "Los Angeles: jury convicts man of starting the Palisades fire (AFP)",
+   "tier": "list"
+  },
+  {
+   "n": 38,
+   "region": "N. America",
+   "text": "Missouri: judge approves a $5.25bn Roundup settlement (AFP)",
+   "tier": "list"
+  },
+  {
+   "n": 39,
+   "region": "Asia",
+   "text": "Pyongyang: Kim tours factories after the Trump meeting (AFP)",
+   "tier": "list"
+  },
+  {
+   "n": 40,
+   "region": "Asia",
+   "text": "Seoul: essay exams open; 111 caught cheating (Yonhap)",
+   "tier": "list"
+  },
+  {
+   "n": 41,
+   "region": "Asia",
+   "text": "Davao: Air Niugini jet lands safely after engine-fire alert; 146 aboard (AP)",
+   "tier": "list"
+  },
+  {
+   "n": 42,
+   "region": "Africa",
+   "text": "Sudan: Blue Nile army claims the initiative (AA)",
+   "tier": "list"
+  },
+  {
+   "n": 43,
+   "region": "Africa",
+   "text": "Ethiopia: about 700,000 displaced by conflict (Africanews)",
+   "tier": "list"
+  },
+  {
+   "n": 44,
+   "region": "Oceania",
+   "text": "Melbourne: Cricket Australia backs Cummins as captain (ABC)",
+   "tier": "list"
+  },
+  {
+   "n": 45,
+   "region": "N. America",
+   "text": "Las Vegas: Verstappen takes pole; Russell 2nd (F1)",
+   "tier": "list"
+  },
+  {
+   "n": 46,
+   "region": "Europe",
+   "text": "Brussels: Big Tech tax agreed; Ukraine aid kept flat (Reuters)",
+   "tier": "list"
+  },
+  {
+   "n": 47,
+   "region": "Europe",
+   "text": "FIDE: Carlsen sent to the ethics panel (FIDE)",
+   "tier": "list"
+  },
+  {
+   "n": 48,
+   "region": "Oceania",
+   "text": "Canberra: to review laws for AI shopping agents (ABC)",
+   "tier": "list"
+  },
+  {
+   "n": 49,
+   "region": "N. America",
+   "text": "Washington: Vance says the Iran strikes were Trump's call (Reuters)",
+   "tier": "list"
+  }
+ ],
+ "timeline": [
+  {
+   "event": "Peru quake 6.7",
+   "time": "00:09"
+  },
+  {
+   "event": "Sinaloa raid",
+   "time": "02:00"
+  },
+  {
+   "event": "Banda Sea M6.8",
+   "time": "09:42"
+  },
+  {
+   "event": "Bitcoin back over $60,000",
+   "time": "13:30"
+  },
+  {
+   "event": "BepiColombo burn",
+   "time": "18:24"
+  },
+  {
+   "event": "COP31 pauses to Sunday",
+   "time": "22:10"
+  }
+ ],
+ "title": "Saturday 21 November 2026: 49 dated stories, 9 regions - Iran hits Bahrain bases, deep Peru quake, COP31 overtime",
+ "watch_sunday": "COP31 final vote 09:00 Antalya  ·  Bahrain's UN case  ·  Bitcoin at Monday's stock open  ·  Las Vegas Grand Prix  ·  Sinaloa after Guasave"
+}
